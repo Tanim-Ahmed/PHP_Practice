@@ -74,6 +74,23 @@ echo "Name=".$name.",Phone=".$phone."<br>";
 	{
 		echo $key. $value."<br>";
 	}
+//multidimensional array
+
+	$marr = array(
+		array("Samsung",2,23),
+		array("nokia",3,35),
+		array("realme",4,45)
+
+
+	);
+
+
+
+ echo $marr[0][0];
+ echo "<br>";
+ echo $marr[2][1];
+
+
 
 
 	?>

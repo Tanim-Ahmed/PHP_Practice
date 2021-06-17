@@ -92,7 +92,6 @@ echo "Name=".$name.",Phone=".$phone."<br>";
 
 
 
-
 	?>
 
 </body>
